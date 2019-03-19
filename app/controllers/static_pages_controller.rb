@@ -5,4 +5,10 @@ class StaticPagesController < ApplicationController
     @idade = (15+5)
   end
 
+  def sobre
+  end
+
+  def contato
+  end
+
 end
